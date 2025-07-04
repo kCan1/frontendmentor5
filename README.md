@@ -75,7 +75,7 @@ Users should be able to:
 
 ### Challenges & Solutions
 ---
-I struggled with block CSS techniques and importing Google Fonts. Overcame both by researching official docs and hands-on experimentation.
+I struggled with block CSS techniques and importing Google Fonts, also with the responsiveness, I'm thinking of using either flex or grid and ended up with w-6 and flex. I have hard time especially in the rounded corners of those two divs. Overcame both by researching official docs and hands-on experimentation.
 
 ### Continued Development
 ---
