@@ -9,7 +9,7 @@ function App() {
       <main className="min-h-screen flex justify-center w-full bg-[hsl(30,38%,92%)]">
         <article
           id="product"
-          className="w-full flex justify-center items-center"
+          className="w-full flex justify-center items-center p-10"
         >
           <Card />
         </article>
