@@ -55,6 +55,7 @@ Users should be able to:
 - Mobile-first workflow  
 - React  
 - Vite
+- Tailwind CSS
 
 ### Tech Stack
 ---
@@ -64,6 +65,7 @@ Users should be able to:
 - Vite (build tool)  
 - Flexbox & CSS Grid  
 - Responsive units (rem, em, %, clamp)
+- Tailwind CSS
 
 ### What I Learned
 ---
